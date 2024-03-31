@@ -30,8 +30,9 @@ as individual png images into the folder "MonsterCoreImages/".  The extracted im
 cross-referenced with the supplied MonsterCore.csv file to generate the proper file names for
 each monster as used in Foundry.
 
-The PDF xref numbers are accurate for the current initially released Monster Core PDF as of
-March 2024.  This csv file name need updates in the future is the PDF is ever revised by Paizo.
+The PDF xref numbers and names were transcribed by hand and are accurate for the current 
+released Monster Core PDF as of March 2024.  This csv file may need updates in the future 
+if the PDF is ever revised by Paizo.
 """
 
 import os
