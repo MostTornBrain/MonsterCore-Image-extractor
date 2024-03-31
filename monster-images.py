@@ -1,5 +1,5 @@
 """
-Extract all the monster images from the Monster Core pdf so that can be matched
+Extract all the monster images from the Monster Core pdf so they can be matched
 with other external data, such as Obsidian notes, or used as tokens in Foundry.
 
 This assumes you have a purchased copy of the PDF from Paizo, which can be 
