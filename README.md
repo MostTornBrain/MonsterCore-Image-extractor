@@ -32,7 +32,7 @@ as individual png images into the folder `pf2e-monster-core-pdf-mapping/MonsterC
 cross-referenced with the supplied MonsterCore.csv file to generate the proper file names for
 each monster as used in Foundry.
 
-If you want to use the extracted images in Foundry, copy the complete `pf2e-monster-core-mapping` folder into your Foundry `data/modules` directory.  Then, when you launch your world, choose to enable the `PF2e Monster Core PDF Mapping` module.   All the Monster Core creatures from the PDF should now have images.
+If you want to use the extracted images in Foundry, copy the complete `pf2e-monster-core-mapping` folder into your Foundry `data/modules` directory (**after** you run the image extraction script).  Then, when you launch your world, choose to enable the `PF2e Monster Core PDF Mapping` module.   All the Monster Core creatures from the PDF should now have images.
 
 **NOTE:** The PDF xref numbers and names were transcribed by hand and are accurate for the current 
 released Monster Core PDF as of March 2024.  This csv file may need updates in the future 
