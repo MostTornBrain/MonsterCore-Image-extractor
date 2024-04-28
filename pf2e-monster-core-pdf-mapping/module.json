@@ -1,0 +1,44 @@
+{
+  "id": "pf2e-monster-core-pdf-mapping",
+  "title": "PF2e Monster Core PDF Mapping",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11.315",
+    "verified": "11.315"
+  },
+  "authors": [
+    {
+      "name": "MostTornBrain",
+      "url": "https://github.com/MostTornBrain"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.15"
+        }
+      }
+    ],
+    "requires": [
+    ]
+  },
+  "media": [
+    {
+      "type": "setup",
+      "caption": "Monster Core Mapping"
+    }
+  ],
+  "flags": {
+    "pf2e-monster-core-pdf-mapping": {
+      "pf2e-art": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreMapping.json"
+    }
+  },
+  "manifest": "updatedByRelease",
+  "download": "updatedByRelease",
+  "readme": "https://github.com/MostTornBrain/MosterCorePDFMapping/blob/main/README.md",
+  "url": "https://github.com/MostTornBrain/pMosterCorePDFMapping/",
+  "bugs": "https://github.com/MostTornBrain/MosterCorePDFMapping/issues"
+}

@@ -1,0 +1,1003 @@
+{
+"pathfinder-monster-core": {
+	"oaxKg1yQDmK2PWXG": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Arbiter.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Arbiter.png"},
+	"7v1gykqjBO1YHDfu": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Axiomite.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Axiomite.png"},
+	"085JMzkQqhNEWWWL": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Akhana.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Akhana.png"},
+	"HLM55InRGOAUkqoH": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Pleroma.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Pleroma.png"},
+	"fRjJkktWp7s8NBN7": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ugothol.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ugothol.png"},
+	"VDm2XhfNwhgiJOxD": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vidileth.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vidileth.png"},
+	"9qERA2jk7Yv74Hqq": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cassisian.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cassisian.png"},
+	"9SNpsnwlzZjH4DQf": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Choral.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Choral.png"},
+	"Q1wybC7rSc4MIF9g": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Balisse.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Balisse.png"},
+	"H8Xq9hZP5bEEI3Hf": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Tabellia.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Tabellia.png"},
+	"ybkelAOtSIA06fnj": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Animated Broom.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Animated Broom.png"},
+	"I00S3LWnDJfCn4zv": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Animated Statue.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Animated Statue.png"},
+	"V1Kr5aiPaTM0mDFu": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ankhrav.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ankhrav.png"},
+	"mEZUTqNIgu0ASApu": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Ant.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Ant.png"},
+	"KdW5UeZSqeTZZlo5": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Aolaz.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Aolaz.png"},
+	"pyTr1VOPrPYH8UNg": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Megaprimatus.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Megaprimatus.png"},
+	"0rm0UDbXvwg4sSxQ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Arboreal Warden.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Arboreal Warden.png"},
+	"z2l8K7woKYPkm0qz": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Arboreal Regent.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Arboreal Regent.png"},
+	"wycu7XN9VgiSpSfB": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Zoaem.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Zoaem.png"},
+	"QJgC1lWvwekWJjkD": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Qarna.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Qarna.png"},
+	"Re7B1kEJMFlgpaSc": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Aesra.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Aesra.png"},
+	"FWg5qHuwoa0JfEMR": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Rekhep.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Rekhep.png"},
+	"pzQhR0mc8HEhXLOZ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Athamaru Hunter.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Athamaru Hunter.png"},
+	"jTszZSs0K6vOqidM": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Azarketi Tide Tamer.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Azarketi Tide Tamer.png"},
+	"iNwaxIYuD0OTDNjJ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lyrakien.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lyrakien.png"},
+	"hGYIynV60GGfg8Du": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gancanagh.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gancanagh.png"},
+	"hmcXFrf8xwrYQIg6": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Kanya.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Kanya.png"},
+	"6VOX4biqPtAE7y3g": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Aeolaeka.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Aeolaeka.png"},
+	"fgZx6VJkVZ26GFyI": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Bandersnatch.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Bandersnatch.png"},
+	"XKOQ3ll9TGNso0uB": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Banshee.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Banshee.png"},
+	"8CYHgj4SV2LvlaUs": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Barghest.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Barghest.png"},
+	"mX47c0W9rizbmMBM": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Basilisk.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Basilisk.png"},
+	"2mg30nJR6P3HJDSd": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vampire Bat Swarm.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vampire Bat Swarm.png"},
+	"AZIG0COCaDBronJa": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cave Bear.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cave Bear.png"},
+	"E2XL2egIA3QaSDBM": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Flash Beetle.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Flash Beetle.png"},
+	"IyhbcdTVmkV4pSju": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Boar.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Boar.png"},
+	"EH84J9FedbK3ax50": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Boggard Warrior.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Boggard Warrior.png"},
+	"F2Xhn4rqPAj55w3O": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Boggard Swampseer.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Boggard Swampseer.png"},
+	"UuAvrw7KUEjOM6uN": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Bogwid.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Bogwid.png"},
+	"9cBuzDV8seJqhNKJ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Bugbear Prowler.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Bugbear Prowler.png"},
+	"SZCf0IZkf36plwVd": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Caligni Dancer.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Caligni Dancer.png"},
+	"9YPFqikAmURwcTEO": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Caligni Skulker.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Caligni Skulker.png"},
+	"6KF6TQvLHHpE0uAM": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lion.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lion.png"},
+	"6EgJNAJss45TQqpa": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Smilodon.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Smilodon.png"},
+	"PvYl5kItb7xoE8Is": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Catfolk Pouncer.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Catfolk Pouncer.png"},
+	"1a5faH5CCtFfbQHO": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cauthooj.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cauthooj.png"},
+	"vijBriZmbUJjbJNH": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cave Worm.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cave Worm.png"},
+	"v7LH85fl189pXMsR": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Benthic Worm.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Benthic Worm.png"},
+	"jh3XmHoFtcGYkdJm": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Magma Worm.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Magma Worm.png"},
+	"Q1qjdG3i8TZuEOq6": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Centaur Herbalist.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Centaur Herbalist.png"},
+	"NRBgcu0LkXXp8mtp": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Centipede.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Centipede.png"},
+	"RqX0vfUjlycKjGyp": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Changeling Exile.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Changeling Exile.png"},
+	"GUjtk2h6Yj0NKifF": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Charnel Creation.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Charnel Creation.png"},
+	"bVn0EUj4xrOWjtna": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Chimera.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Chimera.png"},
+	"Hl1Nnnda8KSf0Obp": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Chupacabra.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Chupacabra.png"},
+	"IuVoyT5lkzcWJ6sK": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Clay Effigy.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Clay Effigy.png"},
+	"zeK0ii5YaynhtQi0": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Quetz Coatl.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Quetz Coatl.png"},
+	"MrzlaE7k1PEsd3iQ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cockatrice.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cockatrice.png"},
+	"aCTOWweRtjucLmfe": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Con Rit.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Con Rit.png"},
+	"KH1GkazaI59zftst": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Crawling Hand.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Crawling Hand.png"},
+	"2rMLYkUR47ZCQMUg": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Crocodile.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Crocodile.png"},
+	"oZVeE7D70bHOrs1d": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cyclops.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cyclops.png"},
+	"6mdq7UV9gFXAEOpJ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Great Cyclops.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Great Cyclops.png"},
+	"9Bl1ua3uLqodv47s": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cacodaemon.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cacodaemon.png"},
+	"byShcvERXQVHNaoL": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Venedaemon.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Venedaemon.png"},
+	"bb5Z4z4EHb5LbCLK": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Leukodaemon.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Leukodaemon.png"},
+	"hSSe2FxlXKvjKsEw": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Astradaemon.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Astradaemon.png"},
+	"OoUrk7aHE5wq9nLs": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Pusk.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Pusk.png"},
+	"6UrgCT8MwC8CeGbu": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Brimorak.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Brimorak.png"},
+	"md1fhwGMwDv4NNwO": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Succubus.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Succubus.png"},
+	"hvVFocY8r72XEaqQ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Omox.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Omox.png"},
+	"sPFQOP6asxC8Ga0O": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Seraptis.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Seraptis.png"},
+	"3vkQLclK0z4LhAh7": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Shemhazian.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Shemhazian.png"},
+	"iy5XBb2u4BOVxjtz": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vrolikai.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vrolikai.png"},
+	"BxOlYmZiwLRpxGWp": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dero Stalker.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dero Stalker.png"},
+	"uUP9MQscB0EFPptr": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dero Strangler.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dero Strangler.png"},
+	"kohQQtOfhwxbzWZB": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ort.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ort.png"},
+	"qvagIV8gqF0g3m3l": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vordine.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vordine.png"},
+	"VbN33np2jBfaxhAz": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Coarti.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Coarti.png"},
+	"UMlGhyoHMvhVW6kv": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sarglagon.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sarglagon.png"},
+	"3QyqHIuAXE3YVLUh": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Phistophilus.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Phistophilus.png"},
+	"s492qJ4psEb4FXuy": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gylou.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gylou.png"},
+	"BlTEvlCUKPOfBYMR": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Nessari.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Nessari.png"},
+	"jR4E2I2tmQ6sd5DR": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dezullon.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dezullon.png"},
+	"bveW59P2mTiiFVIt": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dhampir Wizard.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dhampir Wizard.png"},
+	"wNkS1ArFjS6ZsrPS": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Deinonychus.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Deinonychus.png"},
+	"dUI8N2AXDGcf3qRD": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Pachycephalosaurus.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Pachycephalosaurus.png"},
+	"qtJ36jlcRQw5sBnr": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Stegosaurus.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Stegosaurus.png"},
+	"zAxKR8XWtQm2rqh4": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Triceratops.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Triceratops.png"},
+	"wy8Ve0m3wbHMo1U1": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Brontosaurus.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Brontosaurus.png"},
+	"tpNP1UooPPHMyZye": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Tyrannosaurus.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Tyrannosaurus.png"},
+	"ECe2DkOgSSqXHBqv": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Riding Dog.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Riding Dog.png"},
+	"uco1YijAEotYjdnF": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Orca.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Orca.png"},
+	"yj2nhIS8ZsAJh2l5": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Rhu-Chalik.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Rhu-Chalik.png"},
+	"mpkGWfPHmwAYPYJH": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Xoarian.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Xoarian.png"},
+	"YUI465JYqM65iimj": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Jah-Tohl.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Jah-Tohl.png"},
+	"TwFcW5O5J1SdsYv3": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gosreg.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gosreg.png"},
+	"hybmXlTxljL9L1dW": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Adamantine Dragon (Adult).png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Adamantine Dragon (Adult).png"},
+	"TGYELuImcTcuX0aH": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Conspirator Dragon (Adult).png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Conspirator Dragon (Adult).png"},
+	"CPzquDOPnlHyIoVF": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Diabolic Dragon (Adult).png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Diabolic Dragon (Adult).png"},
+	"i6gxQwKAPhOQZPgs": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Empyreal Dragon (Adult).png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Empyreal Dragon (Adult).png"},
+	"TdhUDXvkKBctIpH8": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Fortune Dragon (Adult).png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Fortune Dragon (Adult).png"},
+	"ioi5L2CAM6q9aWKJ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Horned Dragon (Adult).png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Horned Dragon (Adult).png"},
+	"Cq9Cg5dZ3I3cWXXR": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Mirage Dragon (Adult).png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Mirage Dragon (Adult).png"},
+	"awrILpXoGooQKEui": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Omen Dragon (Adult).png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Omen Dragon (Adult).png"},
+	"kLhBdqKOMHDGjdFz": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dragon Turtle.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dragon Turtle.png"},
+	"QIXc18xHrEWDmtKW": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Fey Dragonet.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Fey Dragonet.png"},
+	"nMC9d7ORMz3cdaHa": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/River Drake.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/River Drake.png"},
+	"qlxVPpwVFw5qIVQM": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Flame Drake.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Flame Drake.png"},
+	"aYDbWuOj66nve8r4": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Jungle Drake.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Jungle Drake.png"},
+	"5iqkL9Me5164H7NY": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Wyvern.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Wyvern.png"},
+	"2SixuEUfKpEyfOEY": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Frost Drake.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Frost Drake.png"},
+	"irl1wnfk4b83JWkY": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Desert Drake.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Desert Drake.png"},
+	"GNwLVbfFx8EPz7xO": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dullahan.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dullahan.png"},
+	"IjFlp5eVVTEg902W": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dwarf Warrior.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dwarf Warrior.png"},
+	"IrssIkWkW6fsbHJL": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dybbuk.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dybbuk.png"},
+	"XEjkJ8fQqLc02hrU": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Eagle.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Eagle.png"},
+	"gCmfPEfqS60BiuVP": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Electric Eel.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Electric Eel.png"},
+	"RJFpwZIGbuOuCtXr": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Elananx.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Elananx.png"},
+	"sAfjpjAS56jtrUbi": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Zephyr Hawk.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Zephyr Hawk.png"},
+	"mx2Xpra7bRJP0GuX": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Elemental Hurricane.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Elemental Hurricane.png"},
+	"VQPzDz3xnCQGFOGL": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sod Hound.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sod Hound.png"},
+	"4Ejgj6p1LAu1RAN3": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Living Landslide.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Living Landslide.png"},
+	"pVbggIyXxCo8pPue": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Living Wildfire.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Living Wildfire.png"},
+	"MX2cLbODuo4gECPJ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Firewyrm.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Firewyrm.png"},
+	"MSm1im7lZA5i82rz": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Air Scamp.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Air Scamp.png"},
+	"UwvAf8riRdMaitA4": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Fire Scamp.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Fire Scamp.png"},
+	"H7z7VHzlHlEFev1r": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Brine Shark.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Brine Shark.png"},
+	"1AZoRkLec47xrTqY": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Living Waterfall.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Living Waterfall.png"},
+	"1x0BdpVQLX7o3rrA": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Elephant.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Elephant.png"},
+	"sd6BsHgVrw4FgR70": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Elf Ranger.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Elf Ranger.png"},
+	"VCYF0NAfPKwTHkK1": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Grothlut.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Grothlut.png"},
+	"DEZNEMDhWXvv7BrT": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Irnakurse.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Irnakurse.png"},
+	"ka7bXO7HIfBxk8Gy": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Flytrap.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Flytrap.png"},
+	"cvfIkEF6xmWn2soN": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gargoyle.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gargoyle.png"},
+	"OCZR5r4EBUrt97Ai": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Jaathoom.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Jaathoom.png"},
+	"WDBGcfNArKSpN7z0": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Jabali.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Jabali.png"},
+	"CAEdqhfZDfMLmEyS": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Faydhaan.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Faydhaan.png"},
+	"oKaewcA4gu3fbSVP": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ifrit.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ifrit.png"},
+	"N98ug9jQHqeFoK1N": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ghost Commoner.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ghost Commoner.png"},
+	"LN7MXD38Zs2bDoW6": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ghost Mage.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ghost Mage.png"},
+	"iLkQt8A99nQWUI8k": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ghoul Stalker.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ghoul Stalker.png"},
+	"2KUe0AMwqswKivRo": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ghoul Soldier.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ghoul Soldier.png"},
+	"zT3fSxNatEbrkCzN": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Stone Giant.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Stone Giant.png"},
+	"893mp411SdYren3H": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Frost Giant.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Frost Giant.png"},
+	"rEDhI2oI4TqTICN2": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Fire Giant.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Fire Giant.png"},
+	"Z5QezXy38ZHyt3O3": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cloud Giant.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cloud Giant.png"},
+	"JSKZryHwf0Ggq8KR": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Shadow Giant.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Shadow Giant.png"},
+	"YRyTBciVtCnO7J0Z": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Rune Giant.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Rune Giant.png"},
+	"pH2yNe16EnoJ8R0i": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gimmerling.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gimmerling.png"},
+	"H9CHNiW18cRFocNO": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Globster.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Globster.png"},
+	"9XccneFB5DmMHig0": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gnome Bard.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gnome Bard.png"},
+	"63gNd2JNUDcAjYzo": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Umbral Gnome Scout.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Umbral Gnome Scout.png"},
+	"fLLKuOXwPq1Iq0U4": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Goblin Warrior.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Goblin Warrior.png"},
+	"Ky5eNRvN71O0tY9l": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Goblin Pyro.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Goblin Pyro.png"},
+	"yclRuradTmZbdKFQ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Goblin Dog.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Goblin Dog.png"},
+	"Iwk2qT4lVyrvoz3B": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gogiteth.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gogiteth.png"},
+	"MCgSMT680ic6kr5k": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Graveknight.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Graveknight.png"},
+	"kkAllKGsVCZVGFpf": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Mitflit.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Mitflit.png"},
+	"lFDYJOIp2knQ0IRY": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Jinkin.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Jinkin.png"},
+	"gWgMg7cARqOe82O6": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Griffon.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Griffon.png"},
+	"702acAJ1OPRBjcni": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Grikkitog.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Grikkitog.png"},
+	"kKFfigxrJ2vbJazp": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Grim Reaper.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Grim Reaper.png"},
+	"WoICHri7raCYv1wU": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lesser Death.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lesser Death.png"},
+	"sC4B1pjGrKFXhjOQ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Grindylow.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Grindylow.png"},
+	"BPznJcLvfkpfeQ2q": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Guthallath.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Guthallath.png"},
+	"EYiIQh526d0HLiDu": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sea Hag.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sea Hag.png"},
+	"zrzoj0L0ZwfCbHXr": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sweet Hag.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sweet Hag.png"},
+	"lfUUnFazGLAtqRsP": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Iron Hag.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Iron Hag.png"},
+	"kngoPtu4Cr3BtgW8": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cuckoo Hag.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cuckoo Hag.png"},
+	"FWLTPQZzrVsokXHb": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Halfling Street Watcher.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Halfling Street Watcher.png"},
+	"uBNm3R9wbLTPrM9i": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Harpy.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Harpy.png"},
+	"RTviEfjYnsXa0wkT": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hell Hound.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hell Hound.png"},
+	"oNR29GreK0AxLucN": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Herexen.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Herexen.png"},
+	"CHVMOXznjUDcb3XP": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hippocampus.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hippocampus.png"},
+	"eFGPKbhix65FSG9u": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hippogriff.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hippogriff.png"},
+	"NW68bxCLC6oDHxL9": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hobgoblin Soldier.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hobgoblin Soldier.png"},
+	"JwOlSrHk1pkAKMRn": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hobgoblin Archer.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hobgoblin Archer.png"},
+	"9wNjq9BirBoxyJVH": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Homunculus.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Homunculus.png"},
+	"ExVmw8bSvUd2wYkI": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/War Horse.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/War Horse.png"},
+	"KDbJ402jFuvn5frX": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hryngar Bombardier.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hryngar Bombardier.png"},
+	"eI6rRuxIPSZcm9OC": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hryngar Taskmaster.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hryngar Taskmaster.png"},
+	"Bkr0soTDhQq1qjWx": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hydra.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hydra.png"},
+	"tUWchW8dXavTFeBy": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hyena.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Hyena.png"},
+	"yPYQC2bfOYmqcfIB": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Imp.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Imp.png"},
+	"NqbaJG3tPG0NGJud": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Iron Warden.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Iron Warden.png"},
+	"yogotW0edcHEPeuR": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Kholo Bonekeeper.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Kholo Bonekeeper.png"},
+	"SipdgBCL7XuuEjn6": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Kholo Sergeant.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Kholo Sergeant.png"},
+	"BIZfjoz8DZt75EDn": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Kobold Warrior.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Kobold Warrior.png"},
+	"JFmFuoOzCwc3hA1H": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Kobold Cavern Mage.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Kobold Cavern Mage.png"},
+	"bgKwwvO0uDGD7XsG": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Kraken.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Kraken.png"},
+	"f15mNNhOT3aq66VQ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Krooth.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Krooth.png"},
+	"vqYrJ33XgoeQUUle": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lamia.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lamia.png"},
+	"0qaGLx8ads9blcfS": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lamia Matriarch.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lamia Matriarch.png"},
+	"v1UK3IwCB8wCbL3L": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Leaf Leshy.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Leaf Leshy.png"},
+	"BoXCGLACP9vuIZkZ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Fungus Leshy.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Fungus Leshy.png"},
+	"smItqlbr0iuDJ8nL": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lich.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lich.png"},
+	"JRBUBgJymEeEE4hm": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Crag Linnorm.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Crag Linnorm.png"},
+	"Np5Z7RMQzvSNnH0h": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ice Linnorm.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ice Linnorm.png"},
+	"k0HUy6WdbZUNfG8X": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Tarn Linnorm.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Tarn Linnorm.png"},
+	"0H54u83vZ1w3xHcD": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Tor Linnorm.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Tor Linnorm.png"},
+	"mathcxCcrQmn9Jj8": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Gecko.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Gecko.png"},
+	"oyfheSs1ta4xvtEg": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Monitor Lizard.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Monitor Lizard.png"},
+	"WZRHV2WU0SkpbtJI": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lizardfolk Defender.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lizardfolk Defender.png"},
+	"V8w4iOwUMPqYnqVE": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lizardfolk Scout.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Lizardfolk Scout.png"},
+	"ZeUxgpNi5AXr9pX6": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Manticore (Quill Tail).png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Manticore (Quill Tail).png"},
+	"KCVKMVYRuq6huXGz": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Mantis.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Mantis.png"},
+	"QCPpQya5TEUuIxQn": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Medusa.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Medusa.png"},
+	"IxezJU9rIKKyd3LY": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Merfolk Wavecaller.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Merfolk Wavecaller.png"},
+	"vN2alMciNlKpBpKN": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Minotaur Hunter.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Minotaur Hunter.png"},
+	"IGzoFGlVbkit8hnH": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Mukradi.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Mukradi.png"},
+	"XZWUQklzWF6YFPmG": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Mummy Guardian.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Mummy Guardian.png"},
+	"Ro49rEZwBLkkoEKE": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Mummy Pharaoh.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Mummy Pharaoh.png"},
+	"CYyxzpymkIZxX4Zo": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Smaranava.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Smaranava.png"},
+	"LRboVCCVODz00d5B": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vicharamuni.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vicharamuni.png"},
+	"qRUqoezeEnQ2KdyT": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Nightmare.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Nightmare.png"},
+	"D2Pe38jYbeBxUaxU": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Nilith.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Nilith.png"},
+	"8w0LwQHkip8nzFo0": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Norn.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Norn.png"},
+	"eqHTr6Wj1JadHSa1": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Noxious Needler.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Noxious Needler.png"},
+	"dY1wqHKN6PV4oJ07": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Nuckelavee.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Nuckelavee.png"},
+	"Cqi8jadYpUTajIC6": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Naiad.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Naiad.png"},
+	"4MoqBCDQA6FR1sPw": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dryad.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dryad.png"},
+	"H8lGFF3PKUv2yRL2": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Naiad Queen.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Naiad Queen.png"},
+	"gRy6Ci6zb1s4Nvy5": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dryad Queen.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dryad Queen.png"},
+	"k5p4mRDT26DrDXPA": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Octopus.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Octopus.png"},
+	"lK4Xfb58mUNygoae": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Larval Ofalth.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Larval Ofalth.png"},
+	"Twvzy1yRo6m6dM8D": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ogre Warrior.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ogre Warrior.png"},
+	"oopxVowT2jnUQJiS": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ogre Boss.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ogre Boss.png"},
+	"yVS5i5U28fQyGz99": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Mountain Oni.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Mountain Oni.png"},
+	"CIQgNHkiUtBQR2NJ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Snow Oni.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Snow Oni.png"},
+	"Wlupxz7dmKb6BYcr": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Caldera Oni.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Caldera Oni.png"},
+	"VGPtiSeeT7CYgWrv": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Island Oni.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Island Oni.png"},
+	"r3EXyntNIazKf2gP": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/String Slime.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/String Slime.png"},
+	"EWYXtfIQYhUbWK4R": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Living Tar.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Living Tar.png"},
+	"YReM6QbqwUz3UTP7": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Orc Scrapper.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Orc Scrapper.png"},
+	"WlbwkGQPAenbSUKJ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dromaar Mountaineer.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Dromaar Mountaineer.png"},
+	"wfZoM7RfFzkmK7hI": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Paleohemoth.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Paleohemoth.png"},
+	"HMfH0CI1CQCXB9Xr": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Pegasus.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Pegasus.png"},
+	"9VMoTqyVaKc4ZR4H": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Phantom Knight.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Phantom Knight.png"},
+	"YAGc6gQ5VrvWyR37": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Phantom Beast.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Phantom Beast.png"},
+	"mQJL411e9Iz8dJoh": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Phoenix.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Phoenix.png"},
+	"aZNYR8Zn18ljILfO": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Pipefox.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Pipefox.png"},
+	"3t1z62LREP4nnIDr": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Duskwalker Ghost Hunter.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Duskwalker Ghost Hunter.png"},
+	"BCPpwj9uCiS7bF9C": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Pitborn Adept.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Pitborn Adept.png"},
+	"zpd6b6UPP72ZELCj": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Poltergeist.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Poltergeist.png"},
+	"WNUvjcKRAqdguWfN": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Poracha.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Poracha.png"},
+	"ciLdEf6sld8h2a2j": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Voidworm.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Voidworm.png"},
+	"cRBVKMNukkRgELMs": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Azuretzi.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Azuretzi.png"},
+	"z1TEwL0plpK4l2uf": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Keketar.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Keketar.png"},
+	"5KstOkXabrOlZaKR": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Nosoi.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Nosoi.png"},
+	"74TxKGaW7RPzTdbm": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vanth.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vanth.png"},
+	"z9jEyLrsoBMmh9qg": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Morrigna.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Morrigna.png"},
+	"00uNOPsU5VognIcB": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Yamaraj.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Yamaraj.png"},
+	"a4LgD3NrgkiINvru": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Quetzalcoatlus.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Quetzalcoatlus.png"},
+	"1ZRHjuGOluR4IUrs": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Pukwudgie.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Pukwudgie.png"},
+	"YhVYGhzNrOFQROui": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cythnigot.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Cythnigot.png"},
+	"UQRvCkhkS1ChOzLE": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gongorinan.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Gongorinan.png"},
+	"YKMvlKA1AZJlXtz9": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Augnagar.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Augnagar.png"},
+	"mEjCLVRt7iDiNZL6": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Thulgant.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Thulgant.png"},
+	"Ao8hNYvOeo2HbJ5p": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Quai Dau To.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Quai Dau To.png"},
+	"G5OY8UMEOrbycZZc": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Quelaunt.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Quelaunt.png"},
+	"nFhAJSpbJz1w71EU": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Raktavarna.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Raktavarna.png"},
+	"PcBcC9HZBrM4gWu3": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Raja-Krodha.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Raja-Krodha.png"},
+	"iIJPJcDT8wlJ8z5M": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Rat.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Rat.png"},
+	"C1gYuDSwTkTIkAcC": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ratfolk Grenadier.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Ratfolk Grenadier.png"},
+	"fWAjkhQ0y50Eh2BT": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Redcap.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Redcap.png"},
+	"Rr1u6WvZEdPw1s6v": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Reefclaw.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Reefclaw.png"},
+	"bsrQp0pLgvjJr6mC": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Revenant.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Revenant.png"},
+	"loYbh3SealeYmxai": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Woolly Rhinoceros.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Woolly Rhinoceros.png"},
+	"S67oZ1mvVNz9FTUE": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Roc.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Roc.png"},
+	"2A7jnl9tpmeTBkQy": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sargassum Heap.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sargassum Heap.png"},
+	"aj4ZJUULa7VoPYWy": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Satyr.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Satyr.png"},
+	"2p7MEk4SdXfLbzxO": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Scarecrow.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Scarecrow.png"},
+	"BWm17BRQYGMLqtNe": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Scorpion.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Scorpion.png"},
+	"PUPnGG406PanzIvL": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sea Serpent.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sea Serpent.png"},
+	"qRUezfNovWdrZtdt": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sedacthy Scout.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sedacthy Scout.png"},
+	"VzkfSgbtsGV79WZH": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sedacthy Marauder.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sedacthy Marauder.png"},
+	"0jSkyGbnMiN6kzwH": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Zyss Serpentfolk.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Zyss Serpentfolk.png"},
+	"X3QcYLr2rBcIsJrC": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Aapoph Serpentfolk.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Aapoph Serpentfolk.png"},
+	"y2w2jjs2O3gP0H5v": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Coil Spy.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Coil Spy.png"},
+	"SMLMW81mKN5VlcVV": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Bone Prophet.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Bone Prophet.png"},
+	"VotlWUsFKdOrHWF6": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Shadow.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Shadow.png"},
+	"9rXYGu7D3umIW1sv": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Megalodon.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Megalodon.png"},
+	"ePJcp2ADOjJYYQ5Q": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Shining Child.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Shining Child.png"},
+	"xz2NZqSG5YVl17dc": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Shuln.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Shuln.png"},
+	"yv7hdQ3MO3pLgCF5": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Wrathspawn.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Wrathspawn.png"},
+	"FH58AcRBZIfrHKvv": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Skeletal Champion.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Skeletal Champion.png"},
+	"X2vz6CrMaHIso0ha": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Skeletal Horse.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Skeletal Horse.png"},
+	"zkl6planCbeCuAdS": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Skulltaker.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Skulltaker.png"},
+	"tashopA1s2fAbSXA": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Slurk.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Slurk.png"},
+	"Yadztw8CmYuWfA7k": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Python.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Python.png"},
+	"AJ5LuNMVPLCydryP": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Viper.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Viper.png"},
+	"bdarrRaLjNmlYvNa": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Soulbound Doll (Cruel).png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Soulbound Doll (Cruel).png"},
+	"rdgs2gxTWxkyanD6": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sphinx.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sphinx.png"},
+	"NcYbJS5PWBGdNDqh": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Spider Swarm.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Spider Swarm.png"},
+	"eP4a0FAbus3tNTbc": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Goliath Spider.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Goliath Spider.png"},
+	"lUBkzsSqMfQBczU1": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sprite.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Sprite.png"},
+	"UuQHd4v6gG8ONdCt": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Draxie.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Draxie.png"},
+	"6FW3MILVXOy6mMrY": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Stone Bulwark.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Stone Bulwark.png"},
+	"ClAXGpqu4ZsYuNle": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Tengu Sneak.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Tengu Sneak.png"},
+	"3IPLvfez8DzwwNqm": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Terotricus.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Terotricus.png"},
+	"q95mjOkL678a1Wnt": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Tooth Fairy.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Tooth Fairy.png"},
+	"P8pNcpNeXQcj6lBB": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Treerazer.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Treerazer.png"},
+	"htK4dElL6YvFCLkz": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Forest Troll.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Forest Troll.png"},
+	"wJH5BXOWZYEyVB3y": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Troll Warleader.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Troll Warleader.png"},
+	"9sGgANyNFCKnu06t": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Twigjack.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Twigjack.png"},
+	"lYoAwofYGbhWL75Q": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Unicorn.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Unicorn.png"},
+	"dFzTXkrpoOOdbzuW": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vampire Servitor.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vampire Servitor.png"},
+	"TZt3H39oxVdZRKs9": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vampire Mastermind.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vampire Mastermind.png"},
+	"ksJuhQGIyTejZYWS": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vescavor Swarm.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vescavor Swarm.png"},
+	"mOr6eIUhNuggjCKH": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vescavor Queen.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vescavor Queen.png"},
+	"NxLQHUMs57TktiZa": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vilderavn.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Vilderavn.png"},
+	"diU0V2M3LiMDMsS0": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Witchwarg.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Witchwarg.png"},
+	"llSpQyOTaylpqgnW": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Warsworn.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Warsworn.png"},
+	"6aaBmiOgqZ5h2IhW": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Wasp.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Giant Wasp.png"},
+	"2k0JX3RFTVRf0KS2": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Wererat.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Wererat.png"},
+	"Hg7nCvltRBQOiijQ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Werewolf.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Werewolf.png"},
+	"h3JksV9Idr9eZLkE": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Werebear.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Werebear.png"},
+	"yS0bUM8R6hb4fIx2": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Weretiger.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Weretiger.png"},
+	"DBTbqI9QQRtlJwWh": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Wight.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Wight.png"},
+	"KgJq51AeYrENo3Db": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Will-o’-Wisp.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Will-o’-Wisp.png"},
+	"BN5Lb6IsQ9Wyu3rL": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Wolf.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Wolf.png"},
+	"Gu0cJHGwPd547OtC": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Wraith.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Wraith.png"},
+	"5vBG8a8dnJfmVd3Y": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Xulgath Warrior.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Xulgath Warrior.png"},
+	"S1XgBHtXIOV3JjLy": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Xulgath Skulker.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Xulgath Skulker.png"},
+	"alPZcKVrHTcMdtIU": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Yeti.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Yeti.png"},
+	"vVs0N3mcWYHsyccc": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Zecui.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Zecui.png"},
+	"Xo4IGzw28hivgMmM": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Zombie Shambler.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Zombie Shambler.png"},
+	"EDYKUdYmilw3rgJg": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Zombie Hulk.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Zombie Hulk.png"},
+	"WG4Tk2k9Lm21CEQv": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Greater Nightmare.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Greater Nightmare.png"},
+	"dfshMY9yEEXOUoMo": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Quatoid.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Quatoid.png"},
+	"4n0nhynklrs2iHUJ": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Earth Scamp.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Earth Scamp.png"},
+	"sEgjgitJmwYYa4mV": {
+		"actor": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Skeletal Giant.png",
+		"token": "modules/pf2e-monster-core-pdf-mapping/MonsterCoreImages/Skeletal Giant.png"}
+  }
+}

@@ -59,7 +59,7 @@ if not tuple(map(int, fitz.version[0].split("."))) >= (1, 18, 18):
 dimlimit = 0  # 100  # each image side must be greater than this
 relsize = 0  # 0.05  # image : image size ratio must be larger than this (5%)
 abssize = 0  # 2048  # absolute image size limit 2 KB: ignore if smaller
-imgdir = "MonsterCoreImages"  # found images are stored in this subfolder
+imgdir = "pf2e-monster-core-pdf-mapping/MonsterCoreImages"  # found images are stored in this subfolder
 
 if not os.path.exists(imgdir):  # make subfolder if necessary
     os.mkdir(imgdir)
@@ -161,5 +161,5 @@ imglist = list(set(imglist))
 print(len(set(imglist)), "images in total")
 print(skipped, "images skipped because they weren't monsters")
 print(len(xreflist) - skipped, "images extracted")
-
+print("\nImages have been placed in: ", imgdir)
 print("total time %g sec" % (t1 - t0))
